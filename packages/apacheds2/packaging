@@ -1,0 +1,7 @@
+# abort script on any command that exits with a non zero value
+set -eux -o pipefail
+
+PACKAGE_FILE=apacheds-2.0.0-M21.tar.gz
+
+tar -xvf apacheds/$PACKAGE_FILE -C $BOSH_INSTALL_TARGET/ --strip-components 1
+chown -R vcap:vcap $BOSH_INSTALL_TARGET

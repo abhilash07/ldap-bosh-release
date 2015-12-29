@@ -1,0 +1,8 @@
+---
+name: apacheds2
+
+dependencies:
+- jdk7
+
+files:
+- apacheds/apacheds-2.0.0-M21.tar.gz

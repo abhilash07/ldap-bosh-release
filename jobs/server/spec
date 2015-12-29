@@ -1,5 +1,8 @@
 ---
 name: server
 templates:
+  server_ctl: bin/server_ctl
 
 packages:
+  - apacheds2
+  - jdk7

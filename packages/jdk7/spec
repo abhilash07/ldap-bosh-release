@@ -1,0 +1,7 @@
+---
+name: jdk7
+
+dependencies:
+
+files:
+- jdk/jdk-7u79-linux-x64.gz
