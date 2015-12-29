@@ -1,0 +1,22 @@
+---
+packages:
+- name: apacheds2
+  version: f88631ef2e7852f25432ef1600787646a4495740
+  fingerprint: f88631ef2e7852f25432ef1600787646a4495740
+  sha1: 14494eb6c9f2b4e15e10531f8460d137ad127020
+  dependencies:
+  - jdk7
+- name: jdk7
+  version: 3361d7fba5a02c4e7c8142ed44b5e5faa02900b4
+  fingerprint: 3361d7fba5a02c4e7c8142ed44b5e5faa02900b4
+  sha1: a34003d0048e3c8162a23f01b13d6374a87edea2
+  dependencies: []
+jobs:
+- name: server
+  version: dcc40da6dc90d9f62f4190d7f0b6325ef4e6f7d0
+  fingerprint: dcc40da6dc90d9f62f4190d7f0b6325ef4e6f7d0
+  sha1: b8f73556a463ceabc354a8f992ddde67dc17596d
+commit_hash: 430568db
+uncommitted_changes: true
+name: ldap-bosh-release
+version: 0.1.0
