@@ -16,7 +16,7 @@ jobs:
   version: dcc40da6dc90d9f62f4190d7f0b6325ef4e6f7d0
   fingerprint: dcc40da6dc90d9f62f4190d7f0b6325ef4e6f7d0
   sha1: b8f73556a463ceabc354a8f992ddde67dc17596d
-commit_hash: 413d4367
-uncommitted_changes: false
+commit_hash: 3a601ee3
+uncommitted_changes: true
 name: ldap-bosh-release
 version: 0.1.0
