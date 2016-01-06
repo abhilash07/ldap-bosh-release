@@ -1,2 +1,9 @@
 ---
-{}
+apacheds/apacheds-2.0.0-M21.tar.gz:
+  object_id: a8b73b55-33bd-44ff-8d68-201338c24e0e
+  sha: f48f969f4ff4cfbe280921cc743fdb399a6b9cac
+  size: 16190183
+jdk/jdk-7u79-linux-x64.gz:
+  object_id: 83cfa07e-022c-4bbc-a326-f5910597bd4c
+  sha: c4deb058f674ab732b36a101147add089cf7f134
+  size: 153512879
