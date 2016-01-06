@@ -1,5 +1,3 @@
 ---
-builds:
-  8003284d-ad0c-44af-9dc0-97f5f141f8cf:
-    version: 0.1.0
+builds: []
 format-version: '2'

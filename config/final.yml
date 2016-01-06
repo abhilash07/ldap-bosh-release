@@ -3,4 +3,4 @@ final_name: ldap-bosh-release
 blobstore:
   provider: s3
   options:
-    bucket_name: ldap-bosh-release-blobs
+    bucket_name: ldap-release-blobs

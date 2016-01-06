@@ -1,9 +1,2 @@
 ---
-jdk/jdk-7u79-linux-x64.gz:
-  object_id: 19561fdf-4ef0-4614-80a7-5f1e82d5582c
-  sha: c4deb058f674ab732b36a101147add089cf7f134
-  size: 153512879
-apacheds/apacheds-2.0.0-M21.tar.gz:
-  object_id: bc223fc9-b672-4a9e-aa4f-2bfcfcfbcf54
-  sha: f48f969f4ff4cfbe280921cc743fdb399a6b9cac
-  size: 16190183
+{}
